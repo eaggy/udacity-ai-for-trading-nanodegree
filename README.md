@@ -9,4 +9,4 @@ Repository of all projects for the Udacity nanodegree program [Artificial Intell
 * Project: [NLP on Financial Statements](project_5_NLP_on_financial_statements.ipynb)
 * Project: [Sentiment Analysis with Neural Networks](project_6_sentiment_analysis_with_neural_networks.ipynb)
 * Project: [Combining Signals for Enhanced Alpha](project_7_combining_signals_for_enhanced_alpha.ipynb)
-* Project: [Backtesting]
+* Project: [Backtesting](project_8_backtesting.ipynb)
